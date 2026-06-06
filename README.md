@@ -13,6 +13,8 @@ Remember, it's self-paced so feel free to take a break! ☕️
 ## Basic app structure
 
 - `/public/index.html` – starter HTML page
+- `/public/app.js` – browser entry script
+- `/public/styles.css` – browser styles
 - `/src/index.js` – starter application script
 - `/src/styles.css` – starter styles
 - `/tests/app.test.js` – starter test file
