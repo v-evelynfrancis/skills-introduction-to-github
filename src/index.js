@@ -1,5 +1,10 @@
-function startApp() {
-  console.log('App started');
+function createAppConfig() {
+  return {
+    name: 'basic-app',
+    version: '1.0.0',
+  };
 }
 
-startApp();
+module.exports = {
+  createAppConfig,
+};
